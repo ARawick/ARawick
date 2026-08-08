@@ -18,7 +18,6 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para construi
 
 ## 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ARawick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARawick&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ARawick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ARawick&layout=compact&langs_count=7&theme=dracula)
