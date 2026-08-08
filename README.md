@@ -16,7 +16,11 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para construi
 ![React_Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-
 ## 📊 Minhas Estatísticas
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ARawick&theme=dracula&hide_border=true)
+
+## 🚀 Projetos em Destaque
+
+- **Sistema de Gestão PIBID (IFSertão-PE):** Desenvolvimento de um sistema de informação web dedicado ao gerenciamento do programa, criado como base de estudo para um artigo científico.
+- **Plataforma de Gestão para Barbearias:** Sistema desenvolvido com integração de recursos de assinatura e pagamentos utilizando a API do Asaas.
